@@ -145,10 +145,41 @@ a:hover {
 	list-style-type: none;
 	padding: 5px 0;
 }
+.sidebar-widget-con ul li:last-child {
+	border-bottom: 0;
+}
 .sidebar-widget-con ul li a {
 	display: block;
 	text-transform: capitalize;
 	color: #555;
+}
+.feedback-hdr {
+	border-bottom: 1px solid #e8e8e8;
+	padding-bottom: 15px;
+	margin-bottom: 15px;
+}
+.feedback-hdr .star {
+	margin-bottom: 10px;
+	color: #e68d24;
+}
+.single-fdbk {
+	margin-bottom: 15px;
+}
+.single-fdbk i {
+	margin-right: 15px;
+	margin-top: 5px;
+	color: #e68d24;
+}
+.feedback-ftr a {
+	display: inline-block;
+	color: #555;
+}
+
+.delivery-info {
+	margin-top: 15px;
+}
+.delivery-info ul li i {
+	margin-right: 5px;
 }
 
 /* Product Info */
