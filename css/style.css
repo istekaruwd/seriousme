@@ -59,7 +59,7 @@ a:hover {
 	font-size: 16px;
 	text-transform: uppercase;
 }
-.single-promo i {
+.single-promo img {
 	margin-right: 10px;
 	color: #e68d24;
 }
@@ -165,7 +165,7 @@ a:hover {
 .single-fdbk {
 	margin-bottom: 15px;
 }
-.single-fdbk i {
+.single-fdbk img {
 	margin-right: 15px;
 	margin-top: 5px;
 	color: #e68d24;
@@ -178,7 +178,7 @@ a:hover {
 .delivery-info {
 	margin-top: 15px;
 }
-.delivery-info ul li i {
+.delivery-info ul li img {
 	margin-right: 5px;
 }
 
@@ -346,7 +346,7 @@ a:hover {
 .ftr-benefits p {
 	margin-bottom: 10px;
 }
-.ftr-benefits p i {
+.ftr-benefits p img {
 	margin-right: 5px;
 }
 .ftr-widget ul {
